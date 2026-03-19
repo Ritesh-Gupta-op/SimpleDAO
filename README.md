@@ -19,7 +19,7 @@ Simple DAO is a lightweight decentralized governance smart contract built on the
 ## Deployed Smart Contract Link: Simple DAO
 (Replace this with your deployed contract link, e.g., Stellar Explorer URL)
 
-contract link : https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDHFLOLPEITR7HONTKD6CUHWUGEQ2MKH5SBQSN72WGKXPAK44ULBRS2Q;;
+contract link :https://lab.stellar.org/smart-contracts/contract-explorer?$=network$id=testnet&label=Testnet&horizonUrl=https:////horizon-testnet.stellar.org&rpcUrl=https:////soroban-testnet.stellar.org&passphrase=Test%20SDF%20Network%20/;%20September%202015;&smartContracts$explorer$contractId=CDHFLOLPEITR7HONTKD6CUHWUGEQ2MKH5SBQSN72WGKXPAK44ULBRS2Q;;
 <img width="1920" height="1080" alt="Screenshot (612)" src="https://github.com/user-attachments/assets/4040f2e0-29c3-46ef-946b-b01af395e93e" />
 ##author 
 RITESH GUPTA
